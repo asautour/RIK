@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RIK</string>
+    <string name="title_activity_legislation_view">LegislationViewActivity</string>
+</resources>
